@@ -9,7 +9,15 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "001-01-LED.md",
+        "001-02-LED.md",
+        "001-03-LED.md",
+        "001-04-LED.md",
+        "001-05-LED.md",
+        "001-06-LED.md",
+        "001-07-LED.md",
+        "001-08-LED.md"
     ],
     "testFiles": [
         "test.ts"
