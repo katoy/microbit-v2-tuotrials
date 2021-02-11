@@ -21,7 +21,9 @@
         "001-08-LED.md",
         "001-09-LED.md",
         "001-10-LED.md",
-        "001-11-LED.md"
+        "001-11-LED.md",
+        "001-12-LED.md",
+        "001-13-LED.md"
     ],
     "testFiles": [
         "test.ts"
