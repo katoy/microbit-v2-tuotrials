@@ -18,13 +18,16 @@
         "001-05-LED.md",
         "001-06-LED.md",
         "001-07-LED.md",
-        "001-08-LED.md"
+        "001-08-LED.md",
+        "001-09-LED.md",
+        "001-10-LED.md",
+        "001-11-LED.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "3.1.50",
+        "target": "3.1.51",
         "targetId": "microbit"
     },
     "supportedTargets": [
