@@ -24,3 +24,4 @@ javascrpt モードに変更してから、すでにあるコードをすべて�
 ブロックモードに戻せば、プログラムを変更していくことができます。  
 
 
+![images/LED.gif](https://raw.githubusercontent.com/katoy/microbit-v2-tuotrials/master/images/LED.gif)
