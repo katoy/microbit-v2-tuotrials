@@ -1,31 +1,26 @@
+>  [https://katoy.github.io/microbit-v2-tuotrials/](https://katoy.github.io/microbit-v2-tuotrials/)
 
-> Open this page at [https://katoy.github.io/microbit-v2-tuotrials/](https://katoy.github.io/microbit-v2-tuotrials/)
+## チュートリアルの開き方
 
-## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
+* [https://makecode.microbit.org/beta](https://makecode.microbit.org/beta) を開きます。
+* **新しいプロジェクト** をクリックします。
+* 右上の **読み込む** をクリックします。
+* **URL から読み込む** をクリックします。
+* プロジェクトの URL 欄に https://github.com/katoy/microbit-v2-tuotrials を入力して、**つづける** をクリックします、
+* ページ上の ブロック/javascript の切り替えボタンで javascript にします。
+* 左メニューを下にスクロールすると 001-01-LED.md がみつかります。  
+  スクロールしてもみつからない場合は、エクスプローラをクリックします。するとファイル一覧があらわれて更に下にスクロールできるようになります。
+* 001-*.md がチュートリアルのファイルです。これを順番にクリッしていくことでチュートリアルを進めていけます。
+* 001-01-LED.md をクリックしたとき、画面右端に "◀" が現れていたら、それをクリックします。  
+  するとチュートリアル画面があらわれます。  
+  この画面のまま操作しても良いですが、右上端の四角ボタンをクリックすると、別画面が開いて、画面が広く表示されます。
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/katoy/microbit-v2-tuotrials** and import
 
-## Edit this project ![Build status badge](https://github.com/katoy/microbit-v2-tuotrials/workflows/MakeCode/badge.svg)
+チュートリアルにあるコードを変更してみたい場合は、001-01-LED.md ファイルを開いた時に表示される
+文書の中の blocks の中の javascript コードを copy します。  
+左メニューから main.js を選んでクリックします。  
+javascrpt モードに変更してから、すでにあるコードをすべて削除してから、copy しておいたコードを paste すればよいです、  
+ブロックモードに戻せば、プログラムを変更していくことができます。  
 
-To edit this repository in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/katoy/microbit-v2-tuotrials** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/katoy/microbit-v2-tuotrials/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
