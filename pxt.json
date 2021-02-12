@@ -24,7 +24,10 @@
         "001-11-LED.md",
         "001-12-LED.md",
         "001-13-LED.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "002-01-MAG.md",
+        "002-02-MAG.md",
+        "002-03-MAG.md"
     ],
     "testFiles": [
         "test.ts"
