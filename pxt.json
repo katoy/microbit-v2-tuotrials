@@ -27,7 +27,9 @@
         "tutorial-info-cache.json",
         "002-01-MAG.md",
         "002-02-MAG.md",
-        "002-03-MAG.md"
+        "002-03-MAG.md",
+        "002-04-MAG.md",
+        "002-05-MEG.md"
     ],
     "testFiles": [
         "test.ts"
