@@ -29,13 +29,14 @@
         "002-02-MAG.md",
         "002-03-MAG.md",
         "002-04-MAG.md",
-        "002-05-MEG.md"
+        "002-05-MEG.md",
+        "002-08-MAG.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "3.1.51",
+        "target": "3.1.52",
         "targetId": "microbit"
     },
     "supportedTargets": [
