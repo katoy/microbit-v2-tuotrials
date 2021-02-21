@@ -36,7 +36,8 @@
         "002-06-MAG.md",
         "002-09-MAG.md",
         "002-10-MAG.md",
-        "002-11-MAG.md"
+        "002-11-MAG.md",
+        "002-12-MAG.md"
     ],
     "testFiles": [
         "test.ts"
