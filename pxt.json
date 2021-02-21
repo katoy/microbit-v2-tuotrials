@@ -31,7 +31,12 @@
         "002-04-MAG.md",
         "002-05-MEG.md",
         "002-08-MAG.md",
-        "001-20-LED.md"
+        "001-20-LED.md",
+        "002-07-MEG.md",
+        "002-06-MAG.md",
+        "002-09-MAG.md",
+        "002-10-MAG.md",
+        "002-11-MAG.md"
     ],
     "testFiles": [
         "test.ts"
