@@ -37,13 +37,14 @@
         "002-09-MAG.md",
         "002-10-MAG.md",
         "002-11-MAG.md",
-        "002-12-MAG.md"
+        "002-12-MAG.md",
+        "101-01-PINGPONG.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "3.1.52",
+        "target": "3.1.53",
         "targetId": "microbit"
     },
     "supportedTargets": [
