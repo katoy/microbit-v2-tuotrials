@@ -39,7 +39,8 @@
         "002-11-MAG.md",
         "002-12-MAG.md",
         "101-01-PINGPONG.md",
-        "102-01-drummaster.md"
+        "102-01-drummaster.md",
+        "102-02-drummaster.md"
     ],
     "testFiles": [
         "test.ts"
